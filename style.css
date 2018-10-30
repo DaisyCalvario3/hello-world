@@ -1,0 +1,12 @@
+  * {
+  
+    Padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Open sans', sans-serif; 
+    text-rendering: optimizeLegibility !important;
+    
+}
